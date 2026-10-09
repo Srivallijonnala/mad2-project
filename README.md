@@ -133,11 +133,7 @@ Tables are created programmatically with `db.create_all()`. The single admin acc
 
 Admin credentials are set in `app/config.py`. Optional SMTP and Google Chat webhook settings are also configured there.
 
----
 
-## Demo Video
-
-[Watch the project walkthrough](https://drive.google.com/file/d/1TvGpb96y37A3LWIT-rB0q2ZR2Un7YDNG/view?usp=sharing)
 
 ---
 
